@@ -6,12 +6,12 @@ body {
   background: #e0ddd6;
 }
 
-@media screen and (max-width: 480px)　{
+@media screen and (max-width: 480px)　{}
 
 img {
 width: 100% ;
 }
-}
+
 
 li {
   list-style: none;
@@ -108,7 +108,7 @@ li {
   padding-bottom: 5px;
   margin-bottom: 50px;
   padding-left:10%;
-  border-bottom: solid 3px #62514e;
+
 }
 
 .youtube-contents{
@@ -135,7 +135,7 @@ li {
 
 .footer {
   background-color: #5b737a;
-  color: #62514e;
+  color: #e0ddd6;
   text-align: center;
   height: 80px;
   padding: 70px;
